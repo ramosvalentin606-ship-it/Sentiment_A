@@ -8,7 +8,7 @@ import requests
 
 st.title('Análisis de Sentimiento')
 
-image = Image.open('emoticones.jpg')
+image = Image.open('MIUW.jpeg')
 st.image(image)
 
 st.subheader("Por favor escribe en el campo de texto la frase que deseas analizar")
